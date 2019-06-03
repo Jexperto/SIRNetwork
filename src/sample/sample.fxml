@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="583.0" prefWidth="972.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button id="button" layoutX="868.0" layoutY="68.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="76.0" text="Рассчитать" />
+      <TextField id="data" layoutX="868.0" layoutY="35.0" prefHeight="25.0" prefWidth="76.0" />
+      <Canvas id="canvas1" height="522.0" layoutX="35.0" layoutY="35.0" width="816.0" />
+      <Canvas id="canvas2" height="522.0" layoutX="35.0" layoutY="35.0" width="816.0" />
+      <CheckBox id="torus" layoutX="865.0" layoutY="103.0" mnemonicParsing="false" prefHeight="17.0" prefWidth="83.0" text="Torus" />
+      <TextField id="unhealthyPercentage" layoutX="865.0" layoutY="164.0" prefHeight="25.0" prefWidth="83.0" text="0" />
+      <TextField id="healthyPercentage" layoutX="865.0" layoutY="206.0" prefHeight="25.0" prefWidth="83.0" text="0" />
+      <TextField id="susceptiblePercentage" layoutX="866.0" layoutY="248.0" prefHeight="25.0" prefWidth="83.0" text="100" />
+      <Label layoutX="870.0" layoutY="147.0" text="\% Заражения" textFill="#e40d0d" />
+      <Label layoutX="856.0" layoutY="189.0" text="\% Выздоровления" textFill="#21e00d" />
+      <Label layoutX="849.0" layoutY="231.0" text="\% Восприимчивости" textFill="#dea70d" />
+      <Button id="emulate" layoutX="854.0" layoutY="284.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="104.0" text="Эмулировать" />
+      <CheckBox id="limiter" layoutX="865.0" layoutY="126.0" mnemonicParsing="false" text="Ограничитель" />
+      <Label layoutX="110.0" layoutY="14.0" text="Всего здоровых:" />
+      <Label layoutX="600.0" layoutY="14.0" text="Всего зараженных:" />
+      <Label id="resistantCount" layoutX="204.0" layoutY="14.0" text="0" />
+      <Label id="contaminatedCount" layoutX="709.0" layoutY="14.0" text="0" />
+      <Label id="susceptibleCount" layoutX="478.0" layoutY="14.0" text="0" />
+      <Label layoutX="347.0" layoutY="14.0" text="Всего восприимчивых:" />
+      <Button id="plot" layoutX="854.0" layoutY="317.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="104.0" text="График" />
+      <Button id="save" layoutX="854.0" layoutY="351.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="104.0" text="Сохранить" />
+      <Button id="load" layoutX="854.0" layoutY="383.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="104.0" text="Загрузить" />
+      <Slider id="delay" layoutX="856.0" layoutY="437.0" prefHeight="14.0" prefWidth="101.0" />
+      <Label layoutX="866.0" layoutY="420.0" text="Период шагов" />
+   </children>
+</AnchorPane>

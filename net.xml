@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<net_sim cont="0" res="0" susc="100" torus="false">
+	<net h="20" w="20">
+		<line i="0">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="2" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="3" state="101">
+				<near up="-1" down="1" left="-1" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="-1" down="1" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="-1" down="1" left="4" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="12" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="101">
+				<near up="-1" down="1" left="-1" right="15"/>
+			</node>
+			<node j="15" state="101">
+				<near up="-1" down="-1" left="14" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="-1" down="1" left="15" right="17"/>
+			</node>
+			<node j="17" state="101">
+				<near up="-1" down="-1" left="16" right="18"/>
+			</node>
+			<node j="18" state="101">
+				<near up="-1" down="-1" left="17" right="19"/>
+			</node>
+			<node j="19" state="101">
+				<near up="-1" down="1" left="18" right="-1"/>
+			</node>
+		</line>
+		<line i="1">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="2" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="3" state="101">
+				<near up="0" down="2" left="-1" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="0" down="2" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="0" down="2" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="-1" down="2" left="5" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="12" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="13" state="101">
+				<near up="-1" down="2" left="-1" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="0" down="2" left="13" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="0" down="2" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="0" down="2" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="2">
+			<node j="0" state="101">
+				<near up="-1" down="3" left="-1" right="1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="-1" down="3" left="0" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="-1" down="3" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="1" down="3" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="1" down="3" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="1" down="3" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="1" down="3" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="-1" down="3" left="6" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="12" state="101">
+				<near up="-1" down="3" left="-1" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="1" down="3" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="1" down="3" left="13" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="1" down="3" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="1" down="3" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="3">
+			<node j="0" state="101">
+				<near up="2" down="4" left="-1" right="1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="2" down="4" left="0" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="2" down="4" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="2" down="4" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="2" down="4" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="2" down="4" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="2" down="4" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="2" down="4" left="6" right="8"/>
+			</node>
+			<node j="8" state="101">
+				<near up="-1" down="4" left="7" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="-1" down="4" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="2" down="4" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="2" down="4" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="2" down="-1" left="13" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="2" down="4" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="2" down="4" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="4">
+			<node j="0" state="101">
+				<near up="3" down="5" left="-1" right="1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="3" down="5" left="0" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="3" down="5" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="3" down="5" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="3" down="5" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="3" down="5" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="3" down="5" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="3" down="5" left="6" right="8"/>
+			</node>
+			<node j="8" state="101">
+				<near up="3" down="5" left="7" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="3" down="5" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="3" down="5" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="3" down="5" left="12" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="3" down="5" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="3" down="5" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="5">
+			<node j="0" state="101">
+				<near up="4" down="-1" left="-1" right="1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="4" down="6" left="0" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="4" down="6" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="4" down="6" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="4" down="6" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="4" down="6" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="4" down="6" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="4" down="6" left="6" right="8"/>
+			</node>
+			<node j="8" state="101">
+				<near up="4" down="6" left="7" right="9"/>
+			</node>
+			<node j="9" state="101">
+				<near up="-1" down="6" left="8" right="10"/>
+			</node>
+			<node j="10" state="101">
+				<near up="-1" down="6" left="9" right="11"/>
+			</node>
+			<node j="11" state="101">
+				<near up="4" down="-1" left="10" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="4" down="-1" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="4" down="-1" left="12" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="4" down="6" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="4" down="6" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="6">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="5" down="7" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="5" down="7" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="5" down="7" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="5" down="7" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="5" down="7" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="5" down="7" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="5" down="7" left="6" right="8"/>
+			</node>
+			<node j="8" state="101">
+				<near up="5" down="-1" left="7" right="9"/>
+			</node>
+			<node j="9" state="101">
+				<near up="5" down="7" left="8" right="10"/>
+			</node>
+			<node j="10" state="101">
+				<near up="5" down="7" left="9" right="-1"/>
+			</node>
+			<node j="11" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="12" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="5" down="7" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="5" down="7" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="7">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="6" down="8" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="6" down="8" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="6" down="8" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="6" down="8" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="6" down="8" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="6" down="8" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="6" down="8" left="6" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="101">
+				<near up="6" down="-1" left="-1" right="10"/>
+			</node>
+			<node j="10" state="101">
+				<near up="6" down="8" left="9" right="-1"/>
+			</node>
+			<node j="11" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="12" state="101">
+				<near up="-1" down="8" left="-1" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="6" down="8" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="6" down="8" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="8">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="7" down="9" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="7" down="9" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="7" down="9" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="7" down="9" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="7" down="9" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="7" down="9" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="7" down="-1" left="6" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="101">
+				<near up="7" down="9" left="-1" right="11"/>
+			</node>
+			<node j="11" state="101">
+				<near up="-1" down="9" left="10" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="7" down="9" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="-1" down="9" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="-1" down="9" left="13" right="15"/>
+			</node>
+			<node j="15" state="101">
+				<near up="-1" down="9" left="14" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="7" down="9" left="15" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="7" down="9" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="9">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="8" down="10" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="8" down="10" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="8" down="10" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="8" down="10" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="8" down="10" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="8" down="10" left="5" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="101">
+				<near up="8" down="-1" left="-1" right="11"/>
+			</node>
+			<node j="11" state="101">
+				<near up="8" down="10" left="10" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="8" down="10" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="8" down="10" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="8" down="10" left="13" right="15"/>
+			</node>
+			<node j="15" state="101">
+				<near up="8" down="10" left="14" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="8" down="10" left="15" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="8" down="10" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="10">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="9" down="11" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="9" down="11" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="9" down="11" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="9" down="11" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="9" down="11" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="9" down="-1" left="5" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="9" down="11" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="9" down="11" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="9" down="11" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="9" down="11" left="13" right="15"/>
+			</node>
+			<node j="15" state="101">
+				<near up="9" down="11" left="14" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="9" down="11" left="15" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="101">
+				<near up="9" down="11" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="11">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="10" down="12" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="10" down="12" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="10" down="12" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="10" down="12" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="10" down="12" left="4" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="10" down="12" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="10" down="12" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="10" down="12" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="10" down="12" left="13" right="15"/>
+			</node>
+			<node j="15" state="101">
+				<near up="10" down="12" left="14" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="10" down="12" left="15" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="101">
+				<near up="-1" down="12" left="-1" right="19"/>
+			</node>
+			<node j="19" state="101">
+				<near up="10" down="-1" left="18" right="-1"/>
+			</node>
+		</line>
+		<line i="12">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="11" down="13" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="11" down="13" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="11" down="13" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="11" down="13" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="11" down="13" left="4" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="11" down="13" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="11" down="13" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="11" down="13" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="11" down="13" left="13" right="15"/>
+			</node>
+			<node j="15" state="101">
+				<near up="11" down="-1" left="14" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="11" down="13" left="15" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="101">
+				<near up="11" down="13" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="13">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="12" down="14" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="12" down="14" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="12" down="14" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="12" down="14" left="3" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="12" down="-1" left="4" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="12" down="14" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="12" down="14" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="12" down="-1" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="12" down="-1" left="13" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="12" down="14" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="18" state="101">
+				<near up="12" down="14" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="14">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="101">
+				<near up="13" down="-1" left="-1" right="2"/>
+			</node>
+			<node j="2" state="101">
+				<near up="13" down="15" left="1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="13" down="15" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="13" down="15" left="3" right="-1"/>
+			</node>
+			<node j="5" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="13" down="15" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="13" down="15" left="11" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="13" down="15" left="-1" right="17"/>
+			</node>
+			<node j="17" state="101">
+				<near up="-1" down="15" left="16" right="18"/>
+			</node>
+			<node j="18" state="101">
+				<near up="13" down="15" left="17" right="-1"/>
+			</node>
+			<node j="19" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="15">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="2" state="101">
+				<near up="14" down="16" left="-1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="14" down="16" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="14" down="16" left="3" right="-1"/>
+			</node>
+			<node j="5" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="14" down="16" left="-1" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="14" down="-1" left="11" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="14" down="-1" left="-1" right="17"/>
+			</node>
+			<node j="17" state="101">
+				<near up="14" down="16" left="16" right="18"/>
+			</node>
+			<node j="18" state="101">
+				<near up="14" down="16" left="17" right="-1"/>
+			</node>
+			<node j="19" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="16">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="2" state="101">
+				<near up="15" down="-1" left="-1" right="3"/>
+			</node>
+			<node j="3" state="101">
+				<near up="15" down="17" left="2" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="15" down="17" left="3" right="-1"/>
+			</node>
+			<node j="5" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="15" down="17" left="-1" right="-1"/>
+			</node>
+			<node j="12" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="17" state="101">
+				<near up="15" down="17" left="-1" right="18"/>
+			</node>
+			<node j="18" state="101">
+				<near up="15" down="17" left="17" right="19"/>
+			</node>
+			<node j="19" state="101">
+				<near up="-1" down="17" left="18" right="-1"/>
+			</node>
+		</line>
+		<line i="17">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="2" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="3" state="101">
+				<near up="16" down="18" left="-1" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="16" down="18" left="3" right="-1"/>
+			</node>
+			<node j="5" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="11" state="101">
+				<near up="16" down="18" left="-1" right="-1"/>
+			</node>
+			<node j="12" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="16" state="101">
+				<near up="-1" down="18" left="-1" right="17"/>
+			</node>
+			<node j="17" state="101">
+				<near up="16" down="18" left="16" right="18"/>
+			</node>
+			<node j="18" state="101">
+				<near up="16" down="18" left="17" right="19"/>
+			</node>
+			<node j="19" state="101">
+				<near up="16" down="-1" left="18" right="-1"/>
+			</node>
+		</line>
+		<line i="18">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="2" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="3" state="101">
+				<near up="17" down="-1" left="-1" right="4"/>
+			</node>
+			<node j="4" state="101">
+				<near up="17" down="19" left="3" right="-1"/>
+			</node>
+			<node j="5" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="6" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="7" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="8" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="9" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="10" state="101">
+				<near up="-1" down="19" left="-1" right="11"/>
+			</node>
+			<node j="11" state="101">
+				<near up="17" down="19" left="10" right="-1"/>
+			</node>
+			<node j="12" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="13" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="14" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="15" state="101">
+				<near up="-1" down="19" left="-1" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="17" down="19" left="15" right="17"/>
+			</node>
+			<node j="17" state="101">
+				<near up="17" down="19" left="16" right="18"/>
+			</node>
+			<node j="18" state="101">
+				<near up="17" down="-1" left="17" right="-1"/>
+			</node>
+			<node j="19" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+		</line>
+		<line i="19">
+			<node j="0" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="1" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="2" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="3" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="4" state="101">
+				<near up="18" down="-1" left="-1" right="5"/>
+			</node>
+			<node j="5" state="101">
+				<near up="-1" down="-1" left="4" right="6"/>
+			</node>
+			<node j="6" state="101">
+				<near up="-1" down="-1" left="5" right="7"/>
+			</node>
+			<node j="7" state="101">
+				<near up="-1" down="-1" left="6" right="8"/>
+			</node>
+			<node j="8" state="101">
+				<near up="-1" down="-1" left="7" right="9"/>
+			</node>
+			<node j="9" state="101">
+				<near up="-1" down="-1" left="8" right="10"/>
+			</node>
+			<node j="10" state="101">
+				<near up="18" down="-1" left="9" right="11"/>
+			</node>
+			<node j="11" state="101">
+				<near up="18" down="-1" left="10" right="12"/>
+			</node>
+			<node j="12" state="101">
+				<near up="-1" down="-1" left="11" right="13"/>
+			</node>
+			<node j="13" state="101">
+				<near up="-1" down="-1" left="12" right="14"/>
+			</node>
+			<node j="14" state="101">
+				<near up="-1" down="-1" left="13" right="15"/>
+			</node>
+			<node j="15" state="101">
+				<near up="18" down="-1" left="14" right="16"/>
+			</node>
+			<node j="16" state="101">
+				<near up="18" down="-1" left="15" right="17"/>
+			</node>
+			<node j="17" state="101">
+				<near up="18" down="-1" left="16" right="-1"/>
+			</node>
+			<node j="18" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+			<node j="19" state="103">
+				<near up="-1" down="-1" left="-1" right="-1"/>
+			</node>
+		</line>
+	</net>
+	<graph/>
+</net_sim>
